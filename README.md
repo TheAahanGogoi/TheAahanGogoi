@@ -6,4 +6,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I play video games to pass time and vibe w the homies 
 
+Visitor Count
+
 ![Visitor Count](https://profile-counter.glitch.me/{TheAahanGogoi}/count.svg)
